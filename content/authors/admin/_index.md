@@ -10,8 +10,8 @@ role: Research assistant at Cambridge University, Yusuf Hamied Department of Che
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Cambridge University
+  url: https://www-knowles.ch.cam.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
 bio: Your Friendly Neighbourhood Nano Scientist
