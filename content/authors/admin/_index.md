@@ -6,7 +6,7 @@ title: Timothy Lambden
 superuser: true
 
 # Role/position/tagline
-role: Testing Research assistant at Cambridge University, Yusuf Hamied Department of Chemistry
+role: Research assistant at Cambridge University, Yusuf Hamied Department of Chemistry
 
 # Organizations/Affiliations to show in About widget
 organizations:
