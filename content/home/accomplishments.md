@@ -3,8 +3,13 @@
 # Documentation: https://sourcethemes.com/academic/docs/page-builder/
 widget: accomplishments
 
+# Activate this widget? true/false
+active: false
+
 # This file represents a page section.
 headless: false
+
+
 
 # Order that this section appears on the page.
 weight: 50
