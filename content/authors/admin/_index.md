@@ -76,4 +76,4 @@ research and nanoscience on here, and anything interesting I stumble across
 and want to share. I also enjoy photography in my spare time and thought
 I'd keep everything in one place. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
