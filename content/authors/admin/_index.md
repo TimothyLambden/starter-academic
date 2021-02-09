@@ -29,7 +29,7 @@ education:
     institution: Cambridge University
     year: 2021-2025
   - course: Exchange Student, Physics Major
-    institution: McGill Universtiy
+    institution: McGill University
     year: 2018-2019
   - course: MSci Natural Sciences
     institution: University College London
@@ -70,6 +70,10 @@ email: ""
 highlight_name: false
 ---
 
-Hey, It's Timothy! I'm an incoming NanoDTC student at Cambridge University who loves all things nanoscience. You'll find a few of my articles about my research and nanoscience on here, and anything intresting I stumble across and want to share. I also enjoy photography in my spare time and thought I'd keep everything in one place. 
+Hey, It's Timothy! I'm an incoming NanoDTC student at Cambridge University 
+who loves all things nanoscience. You'll find a few of my articles about my
+research and nanoscience on here, and anything interesting I stumble across 
+and want to share. I also enjoy photography in my spare time and thought
+I'd keep everything in one place. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
