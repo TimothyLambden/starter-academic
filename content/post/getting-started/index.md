@@ -1,15 +1,16 @@
 ---
-title: Welcome to Wowchemy, the website builder for Hugo
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+title: My first Blog post!
+subtitle: Why I decided to create my own website and why you should too
+
 
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+summary: Welcome 👋 We know that first impressions are important, here's my first post!
 
 # Link this post with a project
 projects: []
 
 # Date published
-date: "2020-12-13T00:00:00Z"
+ date: "2020-12-13T00:00:00Z"
 
 # Date updated
 lastmod: "2020-12-13T00:00:00Z"
@@ -29,23 +30,25 @@ image:
   preview_only: false
 
 authors:
-- admin
-- 吳恩達
+- Timothy Lambden
 
 tags:
-- Academic
-- 开源
+- 
 
 categories:
-- Demo
-- 教程
+-
 ---
 
-## Overview
+## Why I decided to create my own website and why you should too
 
-1. The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
-2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
-3. You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more
+Hey, you found my website, welcome! I don’t know how you come 
+across this website but thank you for checking it out and I hope
+you find it helpful to you in some way.
+This is my first blog post, and I’ll explore why I’m creating my
+website and what type of content you may find on here in the 
+future.
+
+
 
 {{< figure src="https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png" title="The template is mobile first with a responsive design to ensure that your site looks stunning on every device." >}}
 
