@@ -13,8 +13,11 @@ view: 2
 #  caption: "My Desk halfway through my Thesis"
 #  image: "books.JPG"
 
-image: "books.JPG"
-caption: "Desk during thesis"
+image:
+  caption: 'desk during thesis'
+  focal_point: ""
+  placement: 2
+  preview_only: false
 
 ---
 
