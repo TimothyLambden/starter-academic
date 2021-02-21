@@ -1,6 +1,6 @@
 ---
-title: **My first blog post**
-subtitle: **Why I decided to create my own website and why you should too**
+title: My first blog post
+subtitle: Why I decided to create my own website and why you should too
 
 # View.
 #   1 = List
@@ -13,11 +13,11 @@ view: 2
 #  caption: "My Desk halfway through my Thesis"
 #  image: "books.JPG"
 
-# image:
-#  caption: desk during thesis
-#  focal_point: ""
-#  placement: 2
-#  preview_only: false
+image:
+  caption: desk during thesis
+  focal_point: ""
+  placement: 2
+  preview_only: false
 
 ---
 
