@@ -13,11 +13,11 @@ view: 2
 #  caption: "My Desk halfway through my Thesis"
 #  image: "books.JPG"
 
-image:
-  caption: desk during thesis
-  focal_point: ""
-  placement: 2
-  preview_only: false
+# image:
+#  caption: desk during thesis
+#  focal_point: ""
+#  placement: 2
+#  preview_only: false
 
 ---
 
