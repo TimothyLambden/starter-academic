@@ -1,7 +1,8 @@
 ---
 title: Posts
-cms_exclude: true
 
+
+featured: true
 # View.
 #   1 = List
 #   2 = Compact
