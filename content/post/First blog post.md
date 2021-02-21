@@ -10,8 +10,8 @@ view: 2
 
 # Optional header image (relative to `static/media/` folder).
 header:
-  caption: ""
-  image: ""
+  caption: "My Desk halfway through my Thesis"
+  image: "books.JPG"
 ---
 
 Hey, you found my website, welcome! I don’t know how you come across this website but thank you
@@ -20,7 +20,7 @@ for checking it out and I hope you find it helpful to you in some way.
 This is my first blog post, and I’ll explore why I’m creating my website 
 and what type of content you may find on here in the future.
 
-## Why I'm creating a website and why you should too
+## **Why I'm creating a website and why you should too**
 
 The whole idea of having your own personal website appealed to me. It’s the perfect way to show and communicate your work and ideas to anyone. You have complete creative freedom in how you choose to share it. Usually in the format with text (for blogs), photos (for galleries) or videos. Or some combination of the three.
 
@@ -40,7 +40,7 @@ Often I find myself stuck in a cycle of variously consuming social media, especi
 
 I’ve got plans about what I’m going to add on here, from my journey in academia, to my research, to graduating during a global pandemic and navigating the job market. Hopefully you will find something of value to you.
 
-## To Write or not to write, that is the question
+## **To Write or not to write, that is the question**
 
 I’ve always been interested in writing and have kept a journal since my 19th Birthday (I’m 23 now), which I annually go back to read to reflect on various events in my life. Memories are powerful and shape who we are, but so is writing. To be able to write effectively goes hand in hand with being able to think effectively. 
 
@@ -54,6 +54,6 @@ Just as I will change overtime, so will the content you see on here, but this is
 
 ## PS:
 
-Feel free to get in touch with me, I’m always happy to chat with people from all walks of life. You can drop me an email or contact me on my socials.
+**Feel free to get in touch with me, I’m always happy to chat with people from all walks of life. You can drop me an email or contact me on my socials.**
 
-PS: if you fancy making a website then I assure to have a look at many resources online that allow you to do it for free and easily with minimal experience. I recommend Hugo/github, they have plenty of templates and tutorials.
+**PS: if you fancy making a website then I assure to have a look at many resources online that allow you to do it for free and easily with minimal experience. I recommend Hugo/github, they have plenty of templates and tutorials.**
