@@ -9,10 +9,15 @@ subtitle: Why I decided to create my own website and why you should too
 view: 2
 
 # Optional header image (relative to `static/media/` folder).
-header:
-  caption: "My Desk halfway through my Thesis"
-  image: "books.JPG"
+# header:
+#  caption: "My Desk halfway through my Thesis"
+#  image: "books.JPG"
+
+image: "books.JPG"
+caption: "Desk during thesis"
+
 ---
+
 
 Hey, you found my website, welcome! I don’t know how you come across this website but thank you
 for checking it out and I hope you find it helpful to you in some way.
