@@ -14,7 +14,7 @@ view: 2
 #  image: "books.JPG"
 
 image:
-  caption: 'desk during thesis'
+  caption: desk during thesis
   focal_point: ""
   placement: 2
   preview_only: false
