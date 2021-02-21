@@ -1,6 +1,6 @@
 ---
 title: Test post
-cms_exclude: false
+cms_exclude: true
 
 # View.
 #   1 = List
@@ -13,6 +13,7 @@ header:
   caption: ""
   image: ""
 ---
-#Hello!
+
+##Hello!
 
 Welcome to my first blog post, hope you enjoy!
