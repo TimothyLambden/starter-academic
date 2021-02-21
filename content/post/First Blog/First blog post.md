@@ -15,9 +15,9 @@ view: 2
 
 image:
   caption: desk during thesis
-  focal_point: ""
-  placement: 2
-  preview_only: false
+  focal_point: smart
+  #placement: 2
+  #preview_only: false
 
 ---
 
