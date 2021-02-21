@@ -14,6 +14,6 @@ header:
   image: ""
 ---
 
-##Hello!
+##Hello
 
 Welcome to my first blog post, hope you enjoy!
