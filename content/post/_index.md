@@ -9,6 +9,8 @@ summary: Hey, you found my website, welcome!
 #   3 = Card
 #   view: 2
 
+draft: false
+
 external_link: ""
 #Featured image
 
