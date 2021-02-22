@@ -8,6 +8,8 @@ subtitle: Why I decided to create my own website and why you should too
 #   3 = Card
 #   view: 2
 
+featured: true
+
 # Featured image
 #image:
 #  placement: 2
