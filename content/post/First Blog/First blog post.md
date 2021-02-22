@@ -6,7 +6,7 @@ subtitle: Why I decided to create my own website and why you should too
 #   1 = List
 #   2 = Compact
 #   3 = Card
-view: 2
+#view: 2
 
 #Optional header image (relative to `static/media/` folder).
 #header:
