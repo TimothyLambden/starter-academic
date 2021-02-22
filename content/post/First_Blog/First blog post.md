@@ -9,14 +9,13 @@ summary: Hey, you found my website, welcome!
 #   3 = Card
 #   view: 2
 
-external_link: ""
 #Featured image
 
 image:
-  placement: 1
-  caption: 'Your caption here.'
-  focal_point: ''
-  preview_only: false
+  caption: ""
+  focal_point: ""
+  preview_only: true
+
   
 #asd
 ---
