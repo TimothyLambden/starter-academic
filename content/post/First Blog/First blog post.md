@@ -8,11 +8,6 @@ subtitle: Why I decided to create my own website and why you should too
 #   3 = Card
 #view: 2
 
-#Optional header image (relative to `static/media/` folder).
-#header:
-#caption: "My Desk halfway through my Thesis"
-#image: "books.JPG"
-
 # Featured image
 image:
   placement: 2
@@ -23,11 +18,9 @@ image:
 ---
 
 
-Hey, you found my website, welcome! I don’t know how you come across this website but thank you
-for checking it out and I hope you find it helpful to you in some way.
+Hey, you found my website, welcome! I don’t know how you come across this website but thank you for checking it out and I hope you find it helpful to you in some way.
 
-This is my first blog post, and I’ll explore why I’m creating my website 
-and what type of content you may find on here in the future.
+This is my first blog post, and I’ll explore why I’m creating my website and what type of content you may find on here in the future.
 
 ## **Why I'm creating a website and why you should too**
 
