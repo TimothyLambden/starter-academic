@@ -8,14 +8,13 @@ summary: Hey, you found my website, welcome!
 #   3 = Card
 #   view: 2
 
+
 featured: true
 
-# Featured image
-#image:
-#  placement: 2
-#  caption: 'desk during my thesis'
-#  focal_point: ""
-#  preview_only: false
+
+
+external_link: ""
+#Featured image
 
 image:
   caption: Photo by rawpixel on Unsplash
