@@ -13,10 +13,11 @@ view: 2
 #  caption: "My Desk halfway through my Thesis"
 #  image: "books.JPG"
 
+# Featured image
 image:
-  caption: desk during thesis
+  placement: 2
+  caption: 'desk during my thesis'
   focal_point: smart
-  #placement: 2
   #preview_only: false
 
 ---
