@@ -1,8 +1,17 @@
 ---
+
 title: My first blog post
 subtitle: Why I decided to create my own website and why you should too
 
 summary: Hey, you found my website, welcome!
+
+# Date published
+date: "2020-12-13T00:00:00Z"
+
+# Date updated
+lastmod: "2020-12-13T00:00:00Z"
+
+featured: true
 # View.
 #   1 = List
 #   2 = Compact
