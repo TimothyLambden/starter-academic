@@ -9,11 +9,18 @@ subtitle: Why I decided to create my own website and why you should too
 #view: 2
 
 # Featured image
+#image:
+#  placement: 2
+#  caption: 'desk during my thesis'
+#  focal_point: ""
+#  preview_only: false
+
+external_link: ""
+
 image:
-  placement: 2
-  caption: 'desk during my thesis'
-  focal_point: ""
-  #preview_only: false
+  caption: Photo by rawpixel on Unsplash
+  focal_point: Smart
+
 
 ---
 
