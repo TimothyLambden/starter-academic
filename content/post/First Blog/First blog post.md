@@ -8,16 +8,16 @@ subtitle: Why I decided to create my own website and why you should too
 #   3 = Card
 view: 2
 
-# Optional header image (relative to `static/media/` folder).
-# header:
-#  caption: "My Desk halfway through my Thesis"
-#  image: "books.JPG"
+#Optional header image (relative to `static/media/` folder).
+#header:
+#caption: "My Desk halfway through my Thesis"
+#image: "books.JPG"
 
 # Featured image
 image:
   placement: 2
   caption: 'desk during my thesis'
-  focal_point: smart
+  focal_point: ""
   #preview_only: false
 
 ---
