@@ -17,8 +17,9 @@ external_link: ""
 #Featured image
 
 image:
-  caption: Photo by rawpixel on Unsplash
-  focal_point: ""
+  placement: 1
+  caption: 'Your caption here.'
+  focal_point: ''
   preview_only: false
   
 
