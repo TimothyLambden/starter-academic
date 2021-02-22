@@ -1,7 +1,7 @@
 ---
 title: My first blog post
 subtitle: Why I decided to create my own website and why you should too
-
+summary: Hey, you found my website, welcome!
 # View.
 #   1 = List
 #   2 = Compact
